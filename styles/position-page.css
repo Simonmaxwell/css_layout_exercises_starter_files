@@ -34,7 +34,8 @@ nav li::after{
 }
 
 main{
-
+  padding-top: 90px;
+  min-width: 1000px;
 }
 
 
