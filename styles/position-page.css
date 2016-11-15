@@ -49,17 +49,18 @@ main{
   margin-right: auto;
 }
 
-.screamcat{
+.screamcat, .saddog {
   position: absolute;
   width: 200px;
+}
+
+.screamcat{
   top: -90px;
   left: -90px;
 }S
 
 .saddog{
-  position: absolute;
-  width: 200px;
-  bottom: 200px;
-  left: 600px;
+  bottom: -120px;
+  left: -60px;
 }
 
