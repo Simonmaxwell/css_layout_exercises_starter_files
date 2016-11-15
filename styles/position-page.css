@@ -1,16 +1,42 @@
-nav {
-  padding-top: 10px;
-  padding-right: 10px;
-  border: 1px solid black;
-  text-align: right;
-  position: relative;
-  height: 50px;
+body{
+  background: url(../images/outerspace_landscape.jpeg) no-repeat;
+  background-size: cover;
+
+}
+nav{
+  height: 60px;
+  background-color: grey;
+  position: fixed;
+  width: 100%;
 }
 
-.logo {
-  position: absolute;
-  left: 10px;
+nav .logo{
+  height: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid black;
 }
+
+nav ul{
+  display: inline-block;
+  list-style: none;
+}
+
+nav li{
+  display: inline-block;
+}
+
+nav li::after{
+  content: "|";
+  margin-left: 5px;
+}
+
+main{
+	
+}
+
 
 .box{
 
@@ -23,3 +49,4 @@ nav {
 .saddog{
 
 }
+
