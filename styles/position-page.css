@@ -50,10 +50,16 @@ main{
 }
 
 .screamcat{
-
-}
+  position: absolute;
+  width: 200px;
+  top: -90px;
+  left: -90px;
+}S
 
 .saddog{
-
+  position: absolute;
+  width: 200px;
+  bottom: 200px;
+  left: 600px;
 }
 
