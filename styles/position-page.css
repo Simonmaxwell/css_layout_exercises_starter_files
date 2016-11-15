@@ -34,12 +34,18 @@ nav li::after{
 }
 
 main{
-	
+
 }
 
 
 .box{
-
+  margin-top: 150px;
+  width: 600px;
+  height: 300px;
+  position: relative;
+  border: 10px dotted green;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .screamcat{
