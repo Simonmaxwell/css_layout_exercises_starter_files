@@ -10,6 +10,11 @@ nav{
   width: 100%;
 }
 
+.secret-box{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
 nav .logo{
   height: 50px;
   margin-top: 5px;
@@ -37,12 +42,9 @@ main{
   padding-top: 90px;
   min-width: 1000px;
 }
+.animal-control{
 
-.secret-box{
-  padding-left: 60px;
-  padding-right: 60px;
 }
-
 
 .box{
   margin-top: 150px;
@@ -66,6 +68,6 @@ main{
 
 .saddog{
   bottom: -120px;
-  left: -60px;
+  right: -60px;
 }
 
