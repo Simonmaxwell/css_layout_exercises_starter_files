@@ -38,6 +38,11 @@ main{
   min-width: 1000px;
 }
 
+.secret-box{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
 
 .box{
   margin-top: 150px;
@@ -57,7 +62,7 @@ main{
 .screamcat{
   top: -90px;
   left: -90px;
-}S
+}
 
 .saddog{
   bottom: -120px;
